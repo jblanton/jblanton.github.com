@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Linked List | Hypertext]]></title>
   <link href="http://jblanton.github.com/categories/linked-list/atom.xml" rel="self"/>
   <link href="http://jblanton.github.com/"/>
-  <updated>2012-08-26T17:36:18-07:00</updated>
+  <updated>2012-08-26T18:07:49-07:00</updated>
   <id>http://jblanton.github.com/</id>
   <author>
     <name><![CDATA[Justin Blanton]]></name>
@@ -19,6 +19,15 @@
     <updated>2012-07-28T05:55:37-07:00</updated>
     <id>http://jblanton.github.com/2012/07/video-bears-salmon</id>
     <content type="html"><![CDATA[<blockquote><p>You are watching exclusive LIVE footage from Alaska's Brooks River in Katmai National Park. Every year over a hundred Brown Bears descend on a mile long stretch of Brooks River to feast on the largest Sockeye Salmon run in the world.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[LEGO Turing Machine]]></title>
+    <link href="http://jblanton.github.com/2012/06/lego-turing-machine/"/>
+    <updated>2012-06-24T12:29:13-07:00</updated>
+    <id>http://jblanton.github.com/2012/06/lego-turing-machine</id>
+    <content type="html"><![CDATA[<p>None</p>
 ]]></content>
   </entry>
   
