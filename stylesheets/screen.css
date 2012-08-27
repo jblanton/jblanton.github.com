@@ -305,7 +305,7 @@ border-bottom: 0px;
 
 
 #header ul {
-margin: 20px 0px 0px 0px;
+margin: 14px 0px 0px 0px;
 padding: 0 15px 0 0;
 list-style: none;
 float: right;
@@ -323,7 +323,7 @@ letter-spacing: .1em;
 }
 
 #header-title {
-margin: 20px 0 20px 0;
+margin: 14px 0 14px 0;
 padding: 0px 0px 0px 15px;
 float: left;
 font-family: alternate-gothic-no-2-d-n4,alternate-gothic-no-2-d,sans-serif;
