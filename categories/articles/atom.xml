@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Articles | Hypertext]]></title>
   <link href="http://jblanton.github.com/categories/articles/atom.xml" rel="self"/>
   <link href="http://jblanton.github.com/"/>
-  <updated>2012-08-26T22:33:40-07:00</updated>
+  <updated>2012-08-27T00:11:21-07:00</updated>
   <id>http://jblanton.github.com/</id>
   <author>
     <name><![CDATA[Justin Blanton]]></name>
@@ -15,7 +15,7 @@
   
   <entry>
     <title type="html"><![CDATA[My unencrypted sync hell ... and my salvation]]></title>
-    <link href="http://jblanton.github.com/2012/06/omnifocus-secure-webdav/"/>
+    <link href="http://jblanton.github.com/2012/06/omnifocus-secure-webdav"/>
     <updated>2012-06-24T15:50:03-07:00</updated>
     <id>http://jblanton.github.com/2012/06/omnifocus-secure-webdav</id>
     <content type="html"><![CDATA[<p>Over the last couple of years I've spent a lot of time thinking about task-management applications (I'm notorious for having bounced around frequently between <a href="https://www.omnigroup.com/products/omnifocus/">OmniFocus</a>, <a href="http://culturedcode.com/things/">Things</a>, and <a href="http://www.potionfactory.com/thehitlist/">The Hit List</a>), and the ways in which their data is synced across instances of their apps. </p>
