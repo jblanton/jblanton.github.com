@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Linked List | Hypertext]]></title>
+  <link href="http://jblanton.github.com/categories/linked-list/atom.xml" rel="self"/>
+  <link href="http://jblanton.github.com/"/>
+  <updated>2012-08-26T22:33:40-07:00</updated>
+  <id>http://jblanton.github.com/</id>
+  <author>
+    <name><![CDATA[Justin Blanton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Evolution of the Web]]></title>
+    <link href="http://jblanton.github.com/2012/07/evolution-of-the-web/"/>
+    <updated>2012-07-08T13:52:25-07:00</updated>
+    <id>http://jblanton.github.com/2012/07/evolution-of-the-web</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[LEGO Turing Machine]]></title>
+    <link href="http://jblanton.github.com/2012/06/lego-turing-machine/"/>
+    <updated>2012-06-24T12:29:13-07:00</updated>
+    <id>http://jblanton.github.com/2012/06/lego-turing-machine</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Po-Chih Lai's eight-wheeled skateboard]]></title>
+    <link href="http://jblanton.github.com/2012/06/eight-wheeled-skateboard/"/>
+    <updated>2012-06-24T12:26:41-07:00</updated>
+    <id>http://jblanton.github.com/2012/06/eight-wheeled-skateboard</id>
+    <content type="html"><![CDATA[<p>It's a beautiful video, and an even more beautiful skateboard, whose eight wheels allow it to go smoothly down (certain) sets of stairs. I kind of want one, not necessarily because it can go down stairs, but because it just looks so damn cool, almost like it belongs, somewhat anachronistically, in <a href="http://www.imdb.com/title/tt0181689/">Minority Report</a>.</p>
+
+
+<p>Also, if you're thinking this thing is anything like the <a href="http://hypertext.net/2006/12/freebording-is-no-joke">Freebord</a>, well, you're wrong.</p>
+
+]]></content>
+  </entry>
+  
+</feed>

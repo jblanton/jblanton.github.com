@@ -4,7 +4,7 @@
   <title><![CDATA[Hypertext]]></title>
   <link href="http://jblanton.github.com/atom.xml" rel="self"/>
   <link href="http://jblanton.github.com/"/>
-  <updated>2012-08-26T22:29:12-07:00</updated>
+  <updated>2012-08-26T22:33:40-07:00</updated>
   <id>http://jblanton.github.com/</id>
   <author>
     <name><![CDATA[Justin Blanton]]></name>
@@ -12,5 +12,91 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Evolution of the Web]]></title>
+    <link href="http://jblanton.github.com/2012/07/evolution-of-the-web/"/>
+    <updated>2012-07-08T13:52:25-07:00</updated>
+    <id>http://jblanton.github.com/2012/07/evolution-of-the-web</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My unencrypted sync hell ... and my salvation]]></title>
+    <link href="http://jblanton.github.com/2012/06/omnifocus-secure-webdav/"/>
+    <updated>2012-06-24T15:50:03-07:00</updated>
+    <id>http://jblanton.github.com/2012/06/omnifocus-secure-webdav</id>
+    <content type="html"><![CDATA[<p>Over the last couple of years I&#8217;ve spent a lot of time thinking about task-management applications (I&#8217;m notorious for having bounced around frequently between <a href="https://www.omnigroup.com/products/omnifocus/">OmniFocus</a>, <a href="http://culturedcode.com/things/">Things</a>, and <a href="http://www.potionfactory.com/thehitlist/">The Hit List</a>), and the ways in which their data is synced across instances of their apps. </p>
+
+
+<p>While each of the &#8220;big three&#8221; task-management apps for the Mac now provides a <em>native</em> OTA sync service, none of these services encrypts your data at the point of storage. Sure, the communications between your devices and their sync server <em>may</em> be secure, but the data itself isn&#8217;t. I find this kind of unbelievable, and frankly, a bit odd, as I think most users of these services would be willing to sacrifice a little speed for a lot of security. (If you spend any time on these apps&#8217; support sites, you&#8217;ll see that all of them say they <em>may</em> offer this sort of thing in the future, but it&#8217;s most certainly not a priority.)</p>
+
+
+<p>A while ago I settled, finally, on OmniFocus, despite its Mac app being kind of a visual abomination. While I probably still prefer The Hit List overall, <a href="http://hypertext.net/2011/06/the-hit-list-v1-0">I&#8217;m not confident in its future development</a>, and Things really is too simplistic for what I need these days.</p>
+
+
+<p>I use OmniFocus a lot. Probably more than 99% of users out there, actually. And, because of my particular job, all day long I deal with nothing but highly-confidential and highly-sensitive information. It&#8217;s not an option for me to leave this data sitting unencrypted on some machine over which I have no control.</p>
+
+
+<p>The way I see it, I have three options.</p>
+
+
+<h3 id="localwifisync">Local WiFi sync</h3>
+
+
+<p>This is what I was using until a few months ago, and it works well. I kept the canonical database on my main machine (a MacBook Pro), against which I synced OmniFocus running on an iPhone, an iPad, and a MacBook Air (work). Obviously, by having kept all of the databases &#8220;local&#8221; to me (and not on a remote server out of my control), it was a relatively secure setup.</p>
+
+
+<p>I don&#8217;t think I ever had a problem with it, except it could be a bit bothersome. By definition, it required the syncing devices to be on the same local network and running OmniFocus at the same time. As you can imagine, this could be incredibly annoying, especially when, for example, I wanted to get something from my phone to my work machine, as I&#8217;d have to go through two levels of syncing, and I&#8217;d have to actually <em>remember</em> to do it.</p>
+
+
+<p>(The Hit List doesn&#8217;t support local WiFi sync at all, and it seems like <a href="https://culturedcode.com/things/wiki/index.php/Frequently_Asked_Questions_%28Things_Cloud%29">Things may eventually deprecate the feature</a>. Huh?)</p>
+
+
+<h3 id="becryptic">Be cryptic</h3>
+
+
+<p>Another option is to be very, very cryptic, but this of course adds another layer of abstraction onto what is, for me, an already almost-impossible-to-manage list of stuff. It&#8217;s not an option for me.</p>
+
+
+<h3 id="third-partyencrypted-everwherewebdav">Third-party, encrypted-everwhere WebDAV</h3>
+
+
+<p>OmniFocus&#8217; saving grace when it comes to secure sync is the ability to use your own WebDAV server, whereby, via HTTPS, you can ensure that <em>communications</em> between your device(s) and the WebDAV server are secure. The final piece of the puzzle is using a WebDAV service that encrypts your data at the storage site <em>and</em> doesn&#8217;t have access to the key&#8211;if you lose the key, you lose your data.</p>
+
+
+<p>There are a few of these services out there, and after a little research I settled on <a href="http://cloudsafe.com">CloudSafe</a>. While I could have gotten away with their free plan (because I&#8217;m using, quite literally, less than 5MB of data), I opted for the $3/month plan because I want to support their service.</p>
+
+
+<p>Setup was a total breeze, and in the few months that I&#8217;ve been using it I&#8217;ve yet to have a single issue. </p>
+
+
+<p>Ah, my tasks, synced between four devices automagically and without thought, encrypted every step of the way. Feels good.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[LEGO Turing Machine]]></title>
+    <link href="http://jblanton.github.com/2012/06/lego-turing-machine/"/>
+    <updated>2012-06-24T12:29:13-07:00</updated>
+    <id>http://jblanton.github.com/2012/06/lego-turing-machine</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Po-Chih Lai's eight-wheeled skateboard]]></title>
+    <link href="http://jblanton.github.com/2012/06/eight-wheeled-skateboard/"/>
+    <updated>2012-06-24T12:26:41-07:00</updated>
+    <id>http://jblanton.github.com/2012/06/eight-wheeled-skateboard</id>
+    <content type="html"><![CDATA[<p>It&#8217;s a beautiful video, and an even more beautiful skateboard, whose eight wheels allow it to go smoothly down (certain) sets of stairs. I kind of want one, not necessarily because it can go down stairs, but because it just looks so damn cool, almost like it belongs, somewhat anachronistically, in <a href="http://www.imdb.com/title/tt0181689/">Minority Report</a>.</p>
+
+
+<p>Also, if you&#8217;re thinking this thing is anything like the <a href="http://hypertext.net/2006/12/freebording-is-no-joke">Freebord</a>, well, you&#8217;re wrong.</p>
+
+]]></content>
+  </entry>
   
 </feed>
