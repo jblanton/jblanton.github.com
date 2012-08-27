@@ -32,8 +32,8 @@ body {
 font-family: myriad-pro-n4,myriad-pro,sans-serif;
 font-style: normal;
 font-weight: 400;
-font-size: 16px;
-line-height: 25px; 
+font-size: 1em;
+line-height: 1.4em; 
 background-color: #f1f1f1;
 color: #424242;
 text-align: left;
@@ -306,7 +306,7 @@ border-bottom: 0px;
 
 #header ul {
 margin: 20px 0px 0px 0px;
-padding-right: 15px;
+padding: 0 15px 0 0;
 list-style: none;
 float: right;
 }
@@ -318,7 +318,6 @@ float: left;
 font-family: alternate-gothic-no-2-d-n4,alternate-gothic-no-2-d,sans-serif;
 font-style: normal;
 font-weight: 400;
-font-size: 19px;
 letter-spacing: .1em;
 }
 
@@ -329,7 +328,6 @@ float: left;
 font-family: alternate-gothic-no-2-d-n4,alternate-gothic-no-2-d,sans-serif;
 font-style: normal;
 font-weight: 400;
-font-size: 19px;
 letter-spacing: .3em;
 color: red;
 }
