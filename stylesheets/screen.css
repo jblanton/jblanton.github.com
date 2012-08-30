@@ -32,15 +32,15 @@ body {
 font-family: myriad-pro-n4,myriad-pro,sans-serif;
 font-style: normal;
 font-weight: 400;
-font-size: 1em;
-line-height: 1.4em; 
+font-size: 17px;
+line-height: 28px; 
 background-color: #f1f1f1;
 color: #424242;
 text-align: left;
 }
 
 a:link, a:visited {
-color: #000;
+color: #424242;
 padding-bottom: 2px;
 text-decoration: none;
 border-bottom: 1px dotted #424242;
@@ -53,7 +53,7 @@ border-bottom: none;
 }
 
 p {
-margin-bottom: 23px;
+margin: 0 20px 23px 20px;
 padding: 0;
 }
 
@@ -285,7 +285,7 @@ padding-bottom: 1px;
 
 #header a:hover {
 	background-color: #f1f1f1;
-border-bottom: 1px dotted #424242;
+	border-bottom: 1px dotted #424242;
 }
 
 
@@ -318,8 +318,8 @@ float: left;
 font-family: alternate-gothic-no-2-d-n4,alternate-gothic-no-2-d,sans-serif;
 font-style: normal;
 font-weight: 400;
-font-size: 1.5em;
-letter-spacing: .1em;
+font-size: 18px;
+letter-spacing: 2px;
 }
 
 #header-title {
@@ -337,7 +337,7 @@ color: red;
 #header hr {
 	width: 100%;
 height: 5px;
-background: #424242;
+background: #000;
 }
 
 .bits_date {

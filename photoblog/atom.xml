@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Photoblog | Hypertext]]></title>
+  <link href="http://jblanton.github.com//photoblog/atom.xml" rel="self"/>
+  <link href="http://jblanton.github.com/"/>
+  <updated>2012-08-29T22:51:10-07:00</updated>
+  <id>http://jblanton.github.com/</id>
+  <author>
+    <name><![CDATA[Justin Blanton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Varvatos lights]]></title>
+    <link href="http://jblanton.github.com/2012/06/varvatos-lights"/>
+    <updated>2012-06-23T13:52:25-07:00</updated>
+    <id>http://jblanton.github.com/2012/06/varvatos-lights</id>
+    <content type="html"><![CDATA[<p><img src="http://hypertext.net/photos/images/varvatos-lights.jpg" alt="Varvatos lights" title="Varvatos lights" width="800" height="533" id="photo" /></p>
+
+<p>Las Vegas, Nevada, July 2012. This shot was taken at the <a href="http://www.johnvarvatos.com/">John Varvatos</a> store in Vegas while I was waiting for the salesman to grab me a pair of shoes from the back. It's the first shot I'm putting up that was taken with the <a href="http://www.amazon.com/exec/obidos/ASIN/B006UV6YMQ/ref=nosim&tag=justinblanton-20">Fujifilm X-Pro1</a> (+<a href="http://www.amazon.com/exec/obidos/ASIN/B006UL00R6/ref=nosim&tag=justinblanton-20">35mm f/1.4</a>).</p>
+
+]]></content>
+  </entry>
+  
+</feed>

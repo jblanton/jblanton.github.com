@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://jblanton.github.com/2012/06/varvatos-lights</loc>
+        <lastmod>2012-08-29T20:23:45-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://jblanton.github.com/2012/06/eight-wheeled-skateboard</loc>
         <lastmod>2012-08-27T01:28:28-07:00</lastmod>
     </url>
@@ -22,10 +26,14 @@
     </url>
     <url>
         <loc>http://jblanton.github.com/blog/archives/</loc>
-        <lastmod>2012-08-27T01:28:28-07:00</lastmod>
+        <lastmod>2012-08-29T20:23:45-07:00</lastmod>
     </url>
     <url>
         <loc>http://jblanton.github.com/</loc>
-        <lastmod>2012-08-27T01:28:28-07:00</lastmod>
+        <lastmod>2012-08-29T20:23:45-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jblanton.github.com/photos/</loc>
+        <lastmod>2012-08-29T21:45:32-07:00</lastmod>
     </url>
 </urlset>
